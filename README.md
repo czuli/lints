@@ -70,7 +70,9 @@ your project.
 lints is compatible with the "Current" version of Node.js.
 
 You can check whether it is compatible with Node.js 6.0 on the
-[Travis CI page](https://travis-ci.org/EvgenyOrekhov/lints)
+[Travis CI page](https://travis-ci.org/EvgenyOrekhov/lints).
+
+You can add action [Dockerfile linter](https://github.com/buddy-works/dockerfile-linter) in Buddy. 
 
 ## [Changelog](https://github.com/EvgenyOrekhov/lints/releases)
 
